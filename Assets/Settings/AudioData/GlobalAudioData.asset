@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57d1c6d0316ccf64480fcd35e44be335, type: 3}
+  m_Name: GlobalAudioData
+  m_EditorClassIdentifier: 
+  bgm: {fileID: 8300000, guid: 289700c8e21032f40ab500d99301280a, type: 3}
+  hitBrickSFX: {fileID: 8300000, guid: b796f7e3b1a4d7344b7ee8d6c077a68f, type: 3}
+  hitPlateSFX: {fileID: 8300000, guid: 6056a660bb0897e4ea25a31889075437, type: 3}
